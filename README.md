@@ -26,7 +26,13 @@
 - 📫 Reach me at **kalyangotimothy@gmail.com**
 
 ---
+---
 
+### 📚 Publications
+
+[#-publications](#-publications)
+
+- **The prevalence of Escherichia Coli resistance to third generation cephalosporins from Makerere University clinical microbiology laboratory specimen** — Undergraduate dissertation, Makerere University (2022). [Read it here →](https://dissertations.mak.ac.ug/items/a3517d07-b38d-4cca-9663-99d10f900519)
 ### 🛠️ Tech Stack
 
 <p align="left">
